@@ -55,16 +55,15 @@ export const ArrowIcon = () => {
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <line x1="20" x2="20" y2="20" stroke="white" stroke-width="2" />
+      <line x1="20" x2="20" y2="20" stroke="white" />
       <line
         x1="1.29852"
         y1="19.2873"
         x2="19.5859"
         y2="1.28732"
         stroke="white"
-        stroke-width="2"
       />
-      <path d="M1 1H21" stroke="white" stroke-width="2" />
+      <path d="M1 1H21" stroke="white" />
     </svg>
   );
 };
