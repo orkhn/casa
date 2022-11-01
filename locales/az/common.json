@@ -1,0 +1,24 @@
+{
+  "loginBtn": "GİRİŞ",
+  "applyBtn": "QEYDİYYAT",
+  "aboutBtn": "HAQQIMIZDA",
+  "educationBtn": "TƏHSİL",
+  "restaurantBtn": "RESTORAN",
+  "networkBtn": "CASA ŞƏBƏKƏSİ",
+  "visitBtn": "BİZİ ZİYARƏT EDİN",
+  "contactBtn": "ƏLAQƏ",
+  "welcome": "CÀSÀ'YA XOŞ GƏLMİSİNİZ",
+  "explore": "PROQRAMLARIMIZA BAXIN",
+  "aboutCompany": {
+    "firstParagraph": "Azərbaycan Kulinariya Sənətləri Mərkəzi (CÀSÀ) kulinariya təhsili üçün beynəlxalq standartlar və peşəkar ixtisas təklif edən yüksək keyfiyyətli proqramlar təqdim edən akkreditə olunmuş ali təhsil müəssisəsidir.",
+    "secondParagraph": "2020-ci ildə Bakıda, Azərbaycanda yaradılmışdır. CÀSÀ Azərbaycanda ilk peşəkar Kulinariya Mərkəzidir və Bakı şəhərinin mərkəzində, məşhur Bakı Bulvarı və Xəzər dənizinin möhtəşəm fasadına malik memarlıq inciləri olan “Dəniz Mall”da yerləşir. Bu da kulinariya məktəbinin nə məna kəsb etdiyini göstərir: Mükəmməllik və İnnovasiya keyfiyyəti.",
+    "thirdParagraph": "CÀSÀ kulinariya sənəti, çörəkçilik və şirniyyatçılıq sənətləri sahəsində çoxsaylı sertifikat proqramları və diplomlar; rəqabət qabiliyyətinə malik və peşəkarlığa can atan bütün səviyyələrdə peşəkarlar və həvəskarlar üçün rəhbər şəxslərin təhsilinə yönələn xüsusi hazırlanmış proqramlar, kurslar təklif edir. Bundan əlavə, biz bütün yaş səviyyələri üçün geniş çeşiddə tədbirlər, fəaliyyətlər, ustad dərsləri və komanda quruculuğu təklif edirik.",
+    "forthParagraph": "Biz iş təcrübəsi və liderlik imkanları ilə, nəzəriyyəni təcrübə və sənaye yönümlü təhsillə inteqrasiya etməklə innovativ tədris yanaşmalarını təqdim edirik, tələbələri peşəkar uğura və ömür boyu şəxsi və intellektual inkişafa nail olmağa ruhlandırırıq."
+  },
+  "titles": {
+    "aboutPage": "haqqımızda",
+    "FoundersMsgPage": "Təsisçinin Mesajı",
+    "OurTeam": "Komandamız",
+    "Contact": "Əlaqə"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "loginBtn": "LOGIN",
+  "applyBtn": "APPLY",
+  "aboutBtn": "ABOUT",
+  "educationBtn": "EDUCATION",
+  "restaurantBtn": "RESTAURANT",
+  "networkBtn": "CASA NETWORK",
+  "visitBtn": "VISIT US",
+  "contactBtn": "CONTACT",
+  "welcome": "WELCOME TO CÀSÀ",
+  "explore": "EXPLORE OUR PROGRAMS",
+  "aboutCompany": {
+    "firstParagraph": "Culinary Arts Center of Azerbaijan (CÀSÀ) is an accredited tertiary education Institution that provides high quality programmes which offering the international standards and professional qualification for culinary education.",
+    "secondParagraph": "Estabilished in 2020 in Baku, Azerbaijan. The CÀSÀ is the first professional Culinary Center in Azerbaijan which located in the heart of Baku city, at “Daniz Mall” an architectural gems with magnificent facade of the renowned Baku Boulevard and the Caspian Sea, embodies what the school stands  for: Quality for Excellence and Innovation.",
+    "thirdParagraph": "CÀSÀ  offers numerous certificates programs and diplomas in culinary arts and baking and pastry arts;  tailor made programs for executive education, courses for professionals and enthusiasts of all levels who possess the competitive drive and aspire towards professionalism.  In addition, we also offer a wide range of events, activities, master classes  and teambuildings for all age levels.",
+    "forthParagraph": "We deliver innovative teaching approaches through integrate theory with pratice and industry-foucused education with work experience and leadership opportunities, inspiring students to achieve professional success and lifelong personal and intellectual growth."
+  },
+  "titles": {
+    "aboutPage": "about us",
+    "FoundersMsgPage": "Founder’s Message",
+    "OurTeam": "Our Team",
+    "Contact": "Contact"
+  },
+  "FoundersMsg": {
+    "header1": "Dear prospective Students,",
+    "header2": "Your Life in Food Begins Here",
+    "foundersName": "“Founder & Director, CÀSÀ”",
+    "letter1": {
+      "paragraph1": "For some, food is a mundane feature of everyday life, for others, food is an art – a true passion. If you identify with the latter perception and you think the world of culinary arts is an endless canvas for innovation and creativity, and that the culinary arts is your calling, then CÀSÀ is the place for you. At CÀSÀ, you will experience an immersive learning journey delivered by some of the most renowned chefs and industry experts to help you nurture your passion and skills.",
+      "paragraph2": "As a veteran of the industry, I also know that expertise are not always enough, and therefore I designed our programs in collaboration with some of the world’s prestigious and most influential organizations, ensuring global exposure and recognition to our graduates. ",
+      "paragraph3": "CÀSÀ adopts an approach of combining top-tier technical skills and knowledge with professional development skills in its programs to ensure its graduates are well prepared to compete in a globalized environment.",
+      "paragraph4": "My goal is not only to help local talents to showcase the Azerbaijani culture and heritage as they promote their local produce and flavors in the international arena, but also to establish a regional and international hub for students from all over the world to share their cultures and backgrounds through culinary arts . I look forward to welcoming you on this exciting journey at CÀSÀ!"
+    },
+    "letter2": {
+      "paragraph1": "My vision behind CÀSÀ is to provide local Azerbaijani talent with the opportunity to develop fine culinary skills and international exposure, thus elevating the Azerbaijani cuisine to a whole new level and pinning it on the global culinary arts map.",
+      "paragraph2": "We aim to give our students the chance to achieve the highest level of academic excellence in culinary education through a hands-on approach. I am confident that our graduates will be able to excel in the F&B and hospitality industries whether through personal entrepreneurship or high-level employment. ",
+      "paragraph3": "Through my personal experience of more than 25 years in the industry, I know the importance and influence of internationally recognized qualifications, and this was the guiding principle in developing the curricula and overall student journey at CÀSÀ. ",
+      "paragraph4": "Being part of an ever-evolving industry, we also focus on helping students gain insights into top industry trends and needs, such as sustainability, food wastage and integration of innovative solutions into the industry."
+    }
+  }
+}

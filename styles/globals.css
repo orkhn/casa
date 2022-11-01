@@ -1,9 +1,38 @@
-html,
-body {
-  padding: 0;
+:root {
+  --color-primary: #fcf9eb;
+  --color-secondary: #001233;
+  --color-white: #fff;
+  --color-black: #000;
+}
+
+/* global fonts */
+@import url("https://fonts.googleapis.com/css2?family=Clicker+Script&family=Open+Sans:wght@300;400;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200;400;700&family=Orbitron&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap");
+/* global styles */
+*,
+*::after,
+*::before {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 1.6rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--color-primary);
+  background-image: url("/images/632c60c6edb43c4b2018fe6b_Noise2.webp");
+  background-position: 0 0;
+  background-size: 10rem;
+  font-family: "Open Sans", sans-serif;
 }
 
 a {
@@ -11,16 +40,13 @@ a {
   text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
+ul {
+  list-style: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+input,
+button,
+textarea,
+select {
+  font: inherit;
 }
